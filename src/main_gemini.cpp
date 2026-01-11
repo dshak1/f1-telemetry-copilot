@@ -288,7 +288,8 @@ int main(){
             static size_t frameCount = 0;
             frameCount++;
             
-            if(!gemini_mode && frameCount % drivers.size() == 0) {
+            // Display telemetry leaderboard (both modes, but only in Gemini mode show coaching indicator)
+            if(frameCount % drivers.size() == 0) {
                 cerr << "\033[2J\033[H";
                 
                 uint32_t currentLap = 0;
@@ -296,7 +297,11 @@ int main(){
                     if(f.lap > currentLap) currentLap = f.lap;
                 }
                 
-                cerr << "\n🏁 LAP " << currentLap << "/" << total_laps << " 🏁\n";
+                cerr << "\nLAP " << currentLap << "/" << total_laps;
+                if(gemini_mode) {
+                    cerr << " [FARVIS AI MODE]";
+                }
+                cerr << "\n";
                 cerr << "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n";
                 
                 vector<TelemetryFrame> sortedFrames = latestFrames;
@@ -306,32 +311,24 @@ int main(){
                         });
                 
                 for(const auto& f : sortedFrames) {
-                    string posColor = "\033[1;33m";
-                    if(f.race_position == 1) posColor = "\033[1;93m";
-                    else if(f.race_position == 2) posColor = "\033[1;37m";
-                    else if(f.race_position == 3) posColor = "\033[1;91m";
+                    // Check if this is the FARVIS-coached driver
+                    bool is_ai_driver = false;
+                    if(gemini_mode && !json_output_drivers.empty()) {
+                        is_ai_driver = (f.driver_id == json_output_drivers[0]);
+                    }
                     
-                    cerr << posColor << "P" << int(f.race_position);
+                    cerr << "P" << int(f.race_position);
                     if(f.race_position < 10) cerr << " ";
-                    cerr << "\033[0m ";
+                    cerr << " ";
                     
-                    string emoji = "⚫";
-                    string teamName = cars[f.driver_id].car_id;
-                    if(teamName == "Red Bull") emoji = "🔵";
-                    else if(teamName == "Ferrari") emoji = "🔴";
-                    else if(teamName == "Mercedes") emoji = "⚪";
-                    else if(teamName == "McLaren") emoji = "🟠";
-                    else if(teamName == "Aston Martin") emoji = "🟢";
-                    else if(teamName == "Alpine") emoji = "💙";
-                    else if(teamName == "Haas") emoji = "⚪";
-                    else if(teamName == "Racing Bulls") emoji = "🔷";
-                    else if(teamName == "Williams") emoji = "💙";
-                    else if(teamName == "Kick Sauber") emoji = "🟢";
-                    
-                    cerr << emoji << " ";
+                    if(is_ai_driver) {
+                        cerr << "[AI] ";
+                    } else {
+                        cerr << "    ";
+                    }
                     
                     string name = drivers[f.driver_id].driver_id;
-                    cerr << "\033[1m" << name << "\033[0m";
+                    cerr << name;
                     for(size_t i = name.length(); i < 20; i++) cerr << " ";
                     
                     int barLength = 10;
@@ -339,28 +336,20 @@ int main(){
                     int filled = int(progress * barLength);
                     cerr << " ";
                     for(int i = 0; i < barLength; i++) {
-                        if(i < filled) cerr << "█";
-                        else cerr << "░";
+                        if(i < filled) cerr << "=";
+                        else cerr << "-";
                     }
                     
                     cerr << " Lap " << f.lap;
                     
                     if(f.speed_kph == 0.0f) {
-                        cerr << "  \033[1;35m[IN PITS]\033[0m";
+                        cerr << "  [IN PITS]";
                     } else {
-                        string speedColor = "\033[32m";
-                        if(f.speed_kph < 150) speedColor = "\033[31m";
-                        else if(f.speed_kph < 200) speedColor = "\033[33m";
-                        
-                        cerr << "  Speed: " << speedColor << int(f.speed_kph) << " kph\033[0m";
+                        cerr << "  Speed: " << int(f.speed_kph) << " kph";
                     }
                     
                     float tirePercent = f.tire_wear * 100;
-                    string tireColor = "\033[32m";
-                    if(tirePercent > 70) tireColor = "\033[31m";
-                    else if(tirePercent > 40) tireColor = "\033[33m";
-                    
-                    cerr << "  Tire: " << tireColor << int(tirePercent) << "%\033[0m";
+                    cerr << "  Tire: " << int(tirePercent) << "%";
                     
                     cerr << "\n";
                 }

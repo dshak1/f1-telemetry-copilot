@@ -1,3 +1,46 @@
+# FARVIS - F1 Race Engineer AI Copilot
+
+**Fast, Adaptable, Reliable, Visionary, Insanely Stupendous**
+
+Every great leader has a great #2. MJ had Scottie Pippen. Iron Man had JARVIS. This is FARVIS - an F1 Race Engineer AI Copilot powered by Google Gemini API.
+
+## What is FARVIS?
+
+FARVIS combines low-latency C++ telemetry simulation with Google Gemini AI to provide strategic race guidance. It's a "fast and slow AI" system:
+
+- **Fast Layer (C++)**: Real-time telemetry at 50Hz - tire degradation, fuel burn, position tracking, penalties
+- **Slow Layer (Gemini)**: Strategic decision-making at lap/event timescales - pit windows, tire management, racing strategy
+
+## Quick Demo (Split Screen)
+
+For the best visual demo, run both components side-by-side:
+
+**Terminal 1 - C++ Telemetry (Live Leaderboard):**
+```bash
+./f1-telemetry-gemini
+```
+
+**Terminal 2 - FARVIS AI Race Engineer (Strategic Guidance):**
+```bash
+bash run_farvis_demo.sh
+```
+
+This shows the full system: real-time race telemetry + AI strategic coaching together!
+
+## Single Command Demo
+
+Alternatively, run everything in one terminal:
+
+```bash
+bash run_farvis_demo.sh
+```
+
+Choose your driver and watch FARVIS provide lap-by-lap strategic guidance!
+
+---
+
+## Original Concept Notes
+
 F1 telemetry using Gemini API I need a wow moment on combining F1 idea from my 310 class low latency C++ google Gemini API. F1 teams run thousands of simulations sending millions to optimize everything they can and yet there is only one winner. Every great leader has a great #2 MJ had Scotty, iron man had jarvis. This idea that all of the greats have a great number two transcends niches. Soul would hurt to give you another AI, lovable V0 slop front end. So I limited my scope to something I'm really passionate about. I hope I did alright to convey that F1 plus JARVIS equals FARVIS. What does it stand for? Fast, adaptable, reliable. Visionary. Insanely stupendous.
 I need some sort of, I don't know, wow moment, probably to impress the judges. What can that be? I could change aggression and then within two seconds Gemini changes the pit call with reasons. Or for the yeah, that could be a good idea.
 

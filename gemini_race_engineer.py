@@ -50,10 +50,10 @@ class RaceEngineerCopilot:
     - Speaks in concise "radio-style" language
     """
     
-    def __init__(self, model_name: str = "models/gemini-3-flash-preview"):
+    def __init__(self, model_name: str = "models/gemini-2.5-flash-lite"):
         """
         Initialize Race Engineer Copilot with Gemini API.
-        Using models/gemini-3-flash-preview - Gemini 3 with 5 RPM, 20 RPD limits.
+        Using models/gemini-2.5-flash-lite - lighter model, 10 RPM, 20 RPD.
         """
         global MOCK_MODE
         self.model_name = model_name
@@ -70,7 +70,7 @@ class RaceEngineerCopilot:
         self.last_lap_processed: Dict[int, int] = {}
         self.pit_recommendations_given: Dict[int, bool] = {}
         self.last_strategy_call_time = 0
-        self.min_call_interval = 15.0  # 15s interval = 4 calls/min (under 5 RPM limit)
+        self.min_call_interval = 8.0  # 8s interval = 7.5 calls/min (under 10 RPM limit)
         self.api_call_count = 0
         self.api_errors = 0
         

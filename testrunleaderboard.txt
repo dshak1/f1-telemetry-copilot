@@ -1,0 +1,1032 @@
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 189 kph  Tire: 25%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ===------- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 21%
+P8      Yuki Tsunoda         ===------- Lap 49  Speed: 187 kph  Tire: 14%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 128 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  [IN PITS]  Tire: 88%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P14     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 85%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 85%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 189 kph  Tire: 25%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ===------- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 21%
+P8      Yuki Tsunoda         ===------- Lap 49  Speed: 187 kph  Tire: 14%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 128 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  [IN PITS]  Tire: 88%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 85%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 189 kph  Tire: 25%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ===------- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 14%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 128 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  [IN PITS]  Tire: 88%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 85%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 189 kph  Tire: 25%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ===------- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 14%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 128 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  [IN PITS]  Tire: 88%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 85%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 25%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ===------- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 14%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 128 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  [IN PITS]  Tire: 88%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 25%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 128 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 25%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 9%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 20%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 70%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 4%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ======---- Lap 50  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ---------- Lap 47  Speed: 189 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ======---- Lap 48  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 189 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ---------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 179 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 189 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 189 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 69%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 189 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 23%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ===------- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 135 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 200 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 199 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ===------- Lap 48  Speed: 176 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  Speed: 119 kph  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 199 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 89%
+P10     Kimi Antonelli       ======---- Lap 48  Speed: 176 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 13%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 133 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  [IN PITS]  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 199 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 90%
+P10     Kimi Antonelli       ======---- Lap 48  Speed: 175 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 14%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 132 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  [IN PITS]  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 199 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 187 kph  Tire: 22%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 90%
+P10     Kimi Antonelli       ======---- Lap 48  Speed: 175 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ---------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 14%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 132 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  [IN PITS]  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 199 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 187 kph  Tire: 23%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 187 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 90%
+P10     Kimi Antonelli       ======---- Lap 48  Speed: 175 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ===------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ======---- Lap 47  Speed: 183 kph  Tire: 14%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 132 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  [IN PITS]  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 199 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 186 kph  Tire: 23%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 186 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 90%
+P10     Kimi Antonelli       ======---- Lap 48  Speed: 175 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ===------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P15     Isack Hadjar         ---------- Lap 48  Speed: 183 kph  Tire: 14%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 132 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  [IN PITS]  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   George Russell: 4 warnings [SERVING PENALTY]
+   Isack Hadjar: 1 warning
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 199 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 186 kph  Tire: 23%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 186 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 90%
+P10     Kimi Antonelli       ======---- Lap 48  Speed: 175 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 0%
+P12     Liam Lawson          ===------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     Isack Hadjar         ---------- Lap 48  Speed: 183 kph  Tire: 14%
+P15     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 132 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  [IN PITS]  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   Isack Hadjar: 1 warning
+   George Russell: 4 warnings [SERVING PENALTY]
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+LAP 51/52
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+P1      Lando Norris         ======---- Lap 51  Speed: 188 kph  Tire: 26%
+P2      Lewis Hamilton       ===------- Lap 51  [IN PITS]  Tire: 85%
+P3      Max Verstappen       ---------- Lap 51  Speed: 132 kph  Tire: 100%
+P4      Oscar Piastri        ---------- Lap 51  Speed: 199 kph  Tire: 10%
+P5      Alex Albon           ======---- Lap 50  Speed: 132 kph  Tire: 88%
+P6      Charles Leclerc      ======---- Lap 50  Speed: 133 kph  Tire: 100%
+P7      Carlos Sainz         ======---- Lap 50  Speed: 186 kph  Tire: 23%
+P8      Yuki Tsunoda         ======---- Lap 49  Speed: 186 kph  Tire: 15%
+P9      Fernando Alonso      ---------- Lap 49  Speed: 127 kph  Tire: 90%
+P10     Kimi Antonelli       ======---- Lap 48  Speed: 175 kph  Tire: 24%
+P11     Esteban Ocon         ===------- Lap 48  Speed: 198 kph  Tire: 1%
+P12     Liam Lawson          ===------- Lap 48  Speed: 178 kph  Tire: 21%
+P13     Lance Stroll         ---------- Lap 48  Speed: 134 kph  Tire: 71%
+P14     Isack Hadjar         ---------- Lap 48  Speed: 183 kph  Tire: 14%
+P15     George Russell       ---------- Lap 48  [IN PITS]  Tire: 90%
+P16     Oliver Bearman       ===------- Lap 47  Speed: 188 kph  Tire: 5%
+P17     Nico Hulkenberg      ======---- Lap 46  Speed: 132 kph  Tire: 70%
+P18     Pierre Gasly         ===------- Lap 46  Speed: 122 kph  Tire: 86%
+P19     Franco Colapinto     ===------- Lap 45  [IN PITS]  Tire: 86%
+P20     Gabriel Bortoleto    ======---- Lap 44  Speed: 121 kph  Tire: 78%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK LIMITS VIOLATIONS:
+   Lewis Hamilton: 1 warning
+   Max Verstappen: 1 warning
+   Oscar Piastri: 2 warnings
+   Alex Albon: 1 warning
+   Charles Leclerc: 1 warning
+   Fernando Alonso: 2 warnings
+   Isack Hadjar: 1 warning
+   George Russell: 4 warnings [SERVING PENALTY]
+   Oliver Bearman: 2 warnings
+   Pierre Gasly: 1 warning
+   Franco Colapinto: 1 warning
+   Gabriel Bortoleto: 2 warnings
+Race runs until finish
+
+🏁 RACE FINISHED! 🏁
+🏆 Winner: Lando Norris 🏆
+(base) Diars-MacBook-Pro-597:f1-telemetry-copilot diarshakimov$ 

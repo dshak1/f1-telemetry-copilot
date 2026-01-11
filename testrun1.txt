@@ -1,0 +1,156 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Diars-MacBook-Pro-597:f1-telemetry-copilot diarshakimov$ bash run_farvis_demo.sh
+FARVIS - F1 Race Engineer AI Copilot
+==========================================
+
+Compiling C++ telemetry system...
+Compilation successful!
+
+Installing Python dependencies...
+Python environment ready!
+
+Starting FARVIS demo...
+   - C++ telemetry outputs JSON to stdout
+   - Python race engineer reads JSON and provides strategy
+   - Press Ctrl+C to stop
+
+─────────────────────────────────────────
+
+Gemini API configured (key: AIzaSyCFUE...)
+FARVIS - F1 Race Engineer AI Copilot
+================================================================
+Gemini API configured
+================================================================
+
+Waiting for telemetry data from C++ simulation...
+
+Using Gemini model: models/gemini-3-flash-preview
+Gemini API rate limit hit (call #1)
+   Free tier: 15 RPM, 1500 RPD. Wait 60s or use mock mode.
+   Tip: Reduce call frequency in code (currently every 15.0s)
+
+╔══════════════════════════════════════════════════════════════╗
+║  FARVIS RACE ENGINEER - LAP 2 - P4 - OSCAR PIASTRI  
+╚══════════════════════════════════════════════════════════════╝
+
+RADIO: "Pace is good. Push now, manage delta."
+
+REASONING: Tire condition strong, focus on building gap or closing
+
+STRATEGIC OPTIONS:
+   A) Push mode: Build gap, manage tire temps
+   B) Conservation: Extend stint, late pit advantage
+   C) Attack mode: Prepare overtake, use ERS wisely
+
+RISK LEVEL: LOW
+CONFIDENCE: 80%
+
+════════════════════════════════════════════════════════════════
+
+Gemini API rate limit hit (call #2)
+   Free tier: 15 RPM, 1500 RPD. Wait 60s or use mock mode.
+   Tip: Reduce call frequency in code (currently every 15.0s)
+
+╔══════════════════════════════════════════════════════════════╗
+║  FARVIS RACE ENGINEER - LAP 11 - P5 - OSCAR PIASTRI  
+╚══════════════════════════════════════════════════════════════╝
+
+RADIO: "Pace is good. Push now, manage delta."
+
+REASONING: Tire condition strong, focus on building gap or closing
+
+STRATEGIC OPTIONS:
+   A) Push mode: Build gap, manage tire temps
+   B) Conservation: Extend stint, late pit advantage
+   C) Attack mode: Prepare overtake, use ERS wisely
+
+RISK LEVEL: LOW
+CONFIDENCE: 80%
+
+════════════════════════════════════════════════════════════════
+
+Gemini API rate limit hit (call #3)
+   Free tier: 15 RPM, 1500 RPD. Wait 60s or use mock mode.
+   Tip: Reduce call frequency in code (currently every 15.0s)
+
+╔══════════════════════════════════════════════════════════════╗
+║  FARVIS RACE ENGINEER - LAP 18 - P4 - OSCAR PIASTRI  
+╚══════════════════════════════════════════════════════════════╝
+
+RADIO: "Approaching pit window. Prepare for undercut."
+
+REASONING: Optimal pit window opening, lap 18. Monitor competitors.
+
+STRATEGIC OPTIONS:
+   A) Pit in 2 laps: Standard timing, safe strategy
+   B) Undercut now: Jump cars ahead, aggressive play
+   C) Overcut: Stay out, hope for clear air advantage
+
+RISK LEVEL: MEDIUM
+CONFIDENCE: 75%
+
+════════════════════════════════════════════════════════════════
+
+Gemini API rate limit hit (call #4)
+   Free tier: 15 RPM, 1500 RPD. Wait 60s or use mock mode.
+   Tip: Reduce call frequency in code (currently every 15.0s)
+
+╔══════════════════════════════════════════════════════════════╗
+║  FARVIS RACE ENGINEER - LAP 25 - P5 - OSCAR PIASTRI  
+╚══════════════════════════════════════════════════════════════╝
+
+RADIO: "Pace is good. Push now, manage delta."
+
+REASONING: Tire condition strong, focus on building gap or closing
+
+STRATEGIC OPTIONS:
+   A) Push mode: Build gap, manage tire temps
+   B) Conservation: Extend stint, late pit advantage
+   C) Attack mode: Prepare overtake, use ERS wisely
+
+RISK LEVEL: LOW
+CONFIDENCE: 80%
+
+════════════════════════════════════════════════════════════════
+
+Gemini API: 5 calls, 4 errors
+
+╔══════════════════════════════════════════════════════════════╗
+║  FARVIS RACE ENGINEER - LAP 34 - P4 - OSCAR PIASTRI  
+╚══════════════════════════════════════════════════════════════╝
+
+RADIO: "Oscar, tires look good. Push now to close the gap to P3. Mode push."
+
+REASONING: With 18 laps remaining and wear at 36.5%, you have sufficient life to increase intensity. The low overtaking difficulty makes you vulnerable if you don't maintain a gap or attack the car ahead.
+
+STRATEGIC OPTIONS:
+   A) Aggressive push now to hunt the podium, utilizing the high overtaking ease.
+   B) Maintain current pace and target a late-race overtake in the final five laps.
+   C) Hold P4 and focus on tire conservation to ensure a one-stop finish.
+
+RISK LEVEL: MEDIUM
+CONFIDENCE: 90%
+
+════════════════════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  FARVIS RACE ENGINEER - LAP 44 - P4 - OSCAR PIASTRI  
+╚══════════════════════════════════════════════════════════════╝
+
+RADIO: "Oscar, tire wear is critical. Manage the deg, eight laps to go. Stay out."
+
+REASONING: Tire wear at 73.5% is nearing the performance cliff, but a green-flag pit stop now would lose 20+ seconds and P4. Your 0.84 management rating is key to nursing the car home while maintaining track position.
+
+STRATEGIC OPTIONS:
+   A) Stay out and manage. Use short-shifting and lift-and-coast to preserve the carcass until the flag.
+   B) Box for Softs. Only if P5 closes the gap and we have a "free" pit window to exploit the 0.10 overtaking ease.
+   C) Conservative engine mode. Reduce torque delivery to minimize rear-axle slip and prevent a late-race puncture.
+
+RISK LEVEL: MEDIUM
+CONFIDENCE: 88%
+
+════════════════════════════════════════════════════════════════
