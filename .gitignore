@@ -2,12 +2,8 @@ api.env
 .env
 *.env
 !.env.example
-
 *.md
-
 testrun*.txt
-
 test_*.py
 test_*.sh
-
 .DS_Store
