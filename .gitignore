@@ -3,15 +3,11 @@ api.env
 *.env
 !.env.example
 
-# Documentation - keep locally only
 *.md
 
-# Test output files
 testrun*.txt
 
-# Test and API testing scripts
 test_*.py
 test_*.sh
 
-# macOS files
 .DS_Store
