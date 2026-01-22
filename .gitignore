@@ -2,3 +2,12 @@ api.env
 .env
 *.env
 !.env.example
+
+# Documentation - keep locally only
+*.md
+
+# Test output files
+testrun*.txt
+
+# macOS files
+.DS_Store
