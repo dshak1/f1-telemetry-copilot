@@ -9,5 +9,9 @@ api.env
 # Test output files
 testrun*.txt
 
+# Test and API testing scripts
+test_*.py
+test_*.sh
+
 # macOS files
 .DS_Store
